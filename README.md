@@ -10,12 +10,7 @@ I'm a Software Engineer passionate about building scalable web applications, mob
 * ✉️  You can contact me at [naol.selemon.scitech@gmail.com](mailto:naol.selemon.scitech@gmail.com)
 * 🧠  I'm learning Machine Learning Frameworks
 * 🤝  I'm open to collaborating on Interesting Web and Mobile Applications Projects
-* ⚡  Warning: Code may contain traces of caffeine, late-night debugging, and spontaneous bursts of genius (or chaos). Either way, I proceed with caution! 🔥
-
-<a href="https://www.github.com/naolselemon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/naolselemon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/itsNaol" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/itsNaol?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+* ⚡  Warning: Code may contain traces of caffeine, late-night debugging, and spontaneous bursts of genius (or chaos). Either way, I proceed with caution! 😆🔥
 
 ### Skills
 
@@ -37,6 +32,16 @@ src="https://img.shields.io/twitter/follow/itsNaol?logo=twitter&style=for-the-ba
 
 <a href="http://www.github.com/naolselemon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naolselemon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/naolselemon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=naolselemon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/naolselemon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naolselemon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/naolselemon/FlutterExpenseTrackerApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naolselemon&repo=FlutterExpenseTrackerApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/naolselemon/React-Quiz-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naolselemon&repo=React-Quiz-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+<div width="100%" align="center"><a href="https://github.com/naolselemon/ExitExamPracticingMobileApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naolselemon&repo=ExitExamPracticingMobileApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/naolselemon/GameHub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naolselemon&repo=GameHub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
