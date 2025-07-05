@@ -97,5 +97,7 @@ I'm a Software Engineer passionate about building scalable web applications, mob
 
 <div width="100%" align="center"><a href="https://github.com/naolselemon/ExitExamPracticingMobileApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naolselemon&repo=ExitExamPracticingMobileApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <br /><br />
-
+  
+<div width="100%" align="center"><a href="https://github.com/naolselemon/Smart E-Book" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naolselemon&repo=Smart E-Book&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<br /><br />
 
