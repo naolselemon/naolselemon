@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naolselemon" alt="naolselemon" /></a> </p>
 
-- 🔭 I’m currently working on **Long form AI Video Generation**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning  and Full stack development Projects**
 
 - 📫 How to reach me **naol.selemon.scitech@gmail.com**
 
