@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning  and Full stack Development Projects**
+- 👯 I’m looking to collaborate on **Machine Learning  and Full Stack Development Projects**
 
 - 📫 How to reach me **naol.selemon.scitech@gmail.com**
 
