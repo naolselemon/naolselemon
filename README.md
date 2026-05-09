@@ -1,27 +1,71 @@
-<h1 align="center">Hi 👋, I'm Naol Selemon</h1>
-<h3 align="center">Software Engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naolselemon" alt="naolselemon" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **Machine Learning  and Full Stack Development Projects**
-
-- 📫 How to reach me **naol.selemon.scitech@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naol-solomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naol-solomon" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:0891B2,70:14B8A6,100:F59E0B&text=Naol%20Selemon&fontAlign=50&fontAlignY=38&fontSize=64&fontColor=FFFFFF&desc=Software%20Engineer&descAlign=50&descAlignY=58&descSize=22&animation=fadeIn" alt="Naol Selemon profile banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=naolselemon&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15" alt="naolselemon trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naolselemon&show_icons=true&locale=en&layout=compact" alt="naolselemon" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=14B8A6&center=true&vCenter=true&width=600&lines=I+am+a+Believer;I+am+a+Software+Engineer;I+am+a+Machine+Learning+Engineer" alt="Typing animation" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naolselemon&show_icons=true&locale=en" alt="naolselemon" /></p>
+<p align="center">
+  <a href="https://github.com/naolselemon?tab=followers">
+    <img src="https://img.shields.io/github/followers/naolselemon?style=for-the-badge&logo=github&label=Followers&color=14B8A6&labelColor=0D1117" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/naolselemon?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub repositories" />
+  </a>
+  <a href="mailto:naol.selemon.scitech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Naol" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naolselemon&" alt="naolselemon" /></p>
+---
 
+## 🛠️ Tech And Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,django,flask,flutter,dart,firebase,mongodb,mysql,redis,c,cpp,git,linux,kubernetes,jest&perline=9" alt="Naol's technology toolkit" />
+</p>
+
+---
+
+## 📊 GitHub Pulse
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naolselemon&show_icons=true&hide_border=true&rank_icon=github&title_color=14B8A6&icon_color=F59E0B&text_color=CBD5E1&bg_color=0F172A" alt="Naol's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naolselemon&hide_border=true&background=0F172A&stroke=14B8A6&ring=F59E0B&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Naol's GitHub streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naolselemon&layout=compact&hide_border=true&title_color=14B8A6&text_color=CBD5E1&bg_color=0F172A" alt="Naol's top languages" width="48%" />
+</div>
+
+<br>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=naolselemon&custom_title=Contribution%20Map&bg_color=0F172A&color=CBD5E1&line=14B8A6&point=F59E0B&area=true&hide_border=true" alt="Naol's contribution graph" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/naol-solomon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/naolselemon">
+    <img src="https://img.shields.io/badge/GitHub-Profile-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F172A,35:0891B2,70:14B8A6,100:F59E0B&text=%22I%20would%20love%20to%20change%20the%20world,%20but%20they%20won%27t%20give%20me%20the%20source%20code.%22&fontSize=16&fontAlignY=65&fontColor=CBD5E1" alt="Footer wave with quote" />
+</p>
