@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=14B8A6&center=true&vCenter=true&width=600&lines=I+am+a+Believer%E2%9B%AA%EF%B8%8F;I+am+a+Software+Engineer;I+am+a+Machine+Learning+Engineer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=14B8A6&center=true&vCenter=true&width=600&lines=I'm+a+Believer%E2%9B%AA%EF%B8%8F;I'm+Software+Engineer;I'm+Machine+Learning+Engineer" alt="Typing animation" />
 </p>
 
 <p align="center">
